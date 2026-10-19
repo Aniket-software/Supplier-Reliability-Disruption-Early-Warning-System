@@ -119,22 +119,5 @@ The current Random Forest baseline without the historical supplier feature achie
 
 These results indicate limited predictive performance. The model requires further feature engineering, threshold tuning, and validation before it should be used for operational decisions.
 
-## Limitations
 
-- The dataset contains only 15 suppliers, limiting generalization.
-- Historical associations do not prove causal relationships.
-- Rule-based supplier risk categories are not the same as validated future-risk predictions.
-- Model performance is currently limited.
-- Dataset provenance and real-world representativeness should be verified before making business claims.
 
-## Future Improvements
-
-- Tune prediction thresholds based on the cost of missed late orders.
-- Add more historical supplier and delivery features.
-- Improve time-based validation and model monitoring.
-- Add explainable predictions and order-level risk alerts.
-- Enhance dashboard design and deployment.
-
-## Disclaimer
-
-This is an educational portfolio project intended to demonstrate data analysis, machine learning, evaluation, and dashboard development. It is not a validated procurement risk management system.
