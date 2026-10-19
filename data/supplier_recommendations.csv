@@ -1,0 +1,16 @@
+Supplier ID,Supplier Name,Total_Orders,Late_Orders,Average_Days_Late,Average_Lead_Time,Late_Rate_Pct,Risk_Level,Recommended_Action
+SUP-010,SunRise Manufacturing,350,144,5.0685714285714285,38.05714285714286,41.14285714285714,High,Review supplier performance and request a corrective action plan
+SUP-015,Iron Gate Steel,335,128,4.038805970149253,36.58805970149254,38.2089552238806,Medium,Monitor upcoming orders and confirm delivery dates early
+SUP-008,Meridian Tech,354,133,4.621468926553672,36.79943502824859,37.57062146892656,Medium,Monitor upcoming orders and confirm delivery dates early
+SUP-006,Pacific Rim Supplies,346,129,4.592485549132948,36.8757225433526,37.283236994219656,Medium,Monitor upcoming orders and confirm delivery dates early
+SUP-001,Apex Industrial Supplies,320,119,3.909375,35.590625,37.1875,Medium,Monitor upcoming orders and confirm delivery dates early
+SUP-011,Atlantic Raw Materials,350,129,4.145714285714286,37.05142857142857,36.85714285714285,Medium,Monitor upcoming orders and confirm delivery dates early
+SUP-003,GlobalParts Ltd,358,131,4.195530726256983,36.92458100558659,36.59217877094972,Medium,Monitor upcoming orders and confirm delivery dates early
+SUP-002,TechPro Components,345,123,4.055072463768116,35.18840579710145,35.65217391304348,Medium,Monitor upcoming orders and confirm delivery dates early
+SUP-007,Nordic Office Solutions,380,135,4.573684210526316,37.45263157894737,35.526315789473685,Medium,Monitor upcoming orders and confirm delivery dates early
+SUP-005,EuroBuild Materials,311,110,3.459807073954984,35.39228295819936,35.36977491961415,Medium,Monitor upcoming orders and confirm delivery dates early
+SUP-009,Delta Engineering,351,119,3.692307692307693,36.53846153846154,33.903133903133906,Low,Maintain regular monitoring and review performance periodically
+SUP-013,Quantum Electronics,374,126,3.574866310160428,35.79679144385027,33.68983957219251,Low,Maintain regular monitoring and review performance periodically
+SUP-012,Cornerstone Services,337,113,3.842729970326409,36.50445103857567,33.531157270029674,Low,Maintain regular monitoring and review performance periodically
+SUP-014,Blue Horizon Packaging,347,116,3.4121037463976944,34.512968299711815,33.429394812680115,Low,Maintain regular monitoring and review performance periodically
+SUP-004,FastTrack Logistics,342,110,3.8859649122807016,36.1812865497076,32.16374269005848,Low,Maintain regular monitoring and review performance periodically
